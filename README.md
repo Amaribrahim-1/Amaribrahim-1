@@ -1,8 +1,6 @@
 
 
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2378c6ff&size=22&center=true&vCenter=true&lines=Frontend+Developer;React+%7C+JavaScript+Specialist;Clean+Architecture+%7C+Performance+First)](https://github.com/Amaribrahim-1)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a2d6e&height=200&section=header&text=Amar%20Ibrahim%20Fawzy&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Frontend+Developer+%7C+React+Specialist+%7C+Competitive+Programmer&descAlignY=58&descSize=16&descColor=a8c4f0" />
 

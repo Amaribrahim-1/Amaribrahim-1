@@ -1,7 +1,7 @@
 
 
 
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a2d6e&height=200&section=header&text=Amar%20Ibrahim%20Fawzy&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Frontend+Developer+%7C+React+Specialist+%7C+Competitive+Programmer&descAlignY=58&descSize=16&descColor=a8c4f0" />
 
 ---

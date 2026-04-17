@@ -48,22 +48,67 @@
 
 ---
 
-## 📖 About Me
+# GitHub Profile README
 
-I'm a **Frontend Developer** and 3rd-year CS student at Kafr Elsheikh University (GPA 3.52/4.0 in Sem 1). I bridge the gap between complex algorithmic logic and intuitive user interfaces. With a strong background in **Competitive Programming (ICPC)**, I write React code that isn't just "functional" but optimized and scalable.
+<table border="0">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Amar" width="150" style="border-radius: 50%" />
+      <br />
+      <h2>AMAR</h2>
+      <hr />
+      <div align="left">
+        <h3>Tech Stack</h3>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <br />
+        <code>typescript</code> <code>js</code> <code>cpp</code>
+        <br />
+        <code>supabase</code> <code>sql</code> <code>tailwind</code>
+      </div>
+      <div align="left">
+        <h3>Competitions</h3>
+        <p><b>ECPC 2025</b><br/><small>99th Place</small></p>
+        <p><b>ECPC 2024</b><br/><small>Honorable Mention</small></p>
+      </div>
+    </td>
+    <td width="75%" valign="top">
+      <h2>About Me</h2>
+      <hr />
+      <p>
+        I am <b>Amar Ibrahim</b>, a Frontend Engineer focused on building scalable web architectures. 
+        I combine my competitive programming background with modern React patterns to deliver high-performance user experiences. 😊
+      </p>
+      
+      ```typescript
+      const Amar = {
+        role: "Frontend Engineer",
+        focus: ["React Architecture", "Clean Code"],
+        logic: "Competitive Programmer (ICPC)",
+        builds: () => ["Exam.io", "Online Bookstore"]
+      };
+      ```
+      
+      <h2>🚀 What I'm Currently Building Toward</h2>
+      <hr />
+      <ul>
+        <li>Finishing <b>Exam.io</b>: A production-grade multi-role platform.</li>
+        <li>Mastering <b>Next.js 15</b> and advanced performance profiling.</li>
+      </ul>
+      
+      <h2>GitHub Contributions</h2>
+      <hr />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amaribrahim-1&theme=react-dark&hide_border=true&area=true" width="100%" />
+      
+      <br />
+      <div align="center">
+        <a href="mailto:mramarforwork1@gmail.com">
+          <img src="https://img.shields.io/badge/Contact%20Me-Email-green?style=for-the-badge" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-- 🏆 **ICPC ECPC Regionalist:** Two-time qualifier, ranked 99th in 2025.
-- 🏗️ **Architecture-First:** Building "Exam.io" using React Query, Supabase, and Clean State Management.
-- ⚡ **Performance Conscious:** Obsessed with render cycles, memoization, and efficient data fetching.
-- ✍️ **Commit Quality:** I follow "Conventional Commits" because professional projects deserve professional history.
-
-```typescript
-const amar = {
-  location:     "Kafr el-Sheikh, Egypt 🇪🇬",
-  education:    "BSc Computer Science — Kafr el-Sheikh University",
-  currentFocus: ["Advanced React Patterns", "Supabase Auth & Policies", "System Design"],
-  building:     "Multi-role Examination Platform (Exam.io)",
-  hobbies:      ["Competitive Programming", "Fitness & Bodybuilding", "Gaming"],
-  funFact:      "I treat my React components like I treat my ICPC problems: efficiency is non-negotiable."
-};
+<p align="center"><small>Amar Ibrahim | GitHub README. All rights reserved.</small></p>
 

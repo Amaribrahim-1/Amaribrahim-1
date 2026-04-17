@@ -1,5 +1,4 @@
-# Hey, I'm Amar Ibrahim Fawzy
-### Frontend Developer | React Specialist | Competitive Programmer
+
 
 <div align="center">
 
